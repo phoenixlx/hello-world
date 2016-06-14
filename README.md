@@ -32,7 +32,8 @@
 2. 
 
 ##技术
-
+1. :+1: [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)，英文版 [The Linux Command Line](http://linuxcommand.org/)，2016年5-6月
+2. :+1: 《out of control》 中文译名《失控》 2016年3-4月
 
 
 ## 杂
