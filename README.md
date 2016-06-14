@@ -17,7 +17,7 @@
 - [推理](#推理)
 - [历史](#历史)
 - [技术](#技术)
-- [杂]（#杂）
+- [杂]（https://github.com/phoenixlx/my_reading_list/blob/master/README.md#杂）
 
 
 ## 杂
