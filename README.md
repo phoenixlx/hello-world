@@ -50,7 +50,9 @@ Rework（重塑工作）
 2. :+1:《人类简史》
 
 ##技术
-1. :+1: 《程序员的自我修养——链接、装载与库》 笔记见有道云
+1. 《Python Cookbook》 O’REILLY  2016.12  更像一本python3新特性的速查手册
+- :+1:[廖雪峰的python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) 2016.11
+- :+1: 《程序员的自我修养——链接、装载与库》 笔记见有道云   2016.9
 - :+1: [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)，英文版 [The Linux Command Line](http://linuxcommand.org/)，2016年5-6月
 - :+1: 《out of control》 中文译名《失控》 2016年3-4月
 
