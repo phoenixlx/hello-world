@@ -37,20 +37,21 @@ Rework（重塑工作）
 - [技术](#技术)
 - [杂](#杂)
 
-##文学
+## 文学
 1. :+1:《三体》1,2,3  刘慈欣【重温】  2016.4 
 
 
-##推理
+## 推理
 1. :+1:《白夜行》 东野圭吾【重温】  2016.6 
 2. 
 
-##历史
+## 历史
 1. :+1:《人类群星闪耀时》  [奥]茨威格  2016.6
 2. :+1:《人类简史》
 
-##技术
-1. 《Python Cookbook》 O’REILLY  2016.12  更像一本python3新特性的速查手册
+## 技术
+1. 《shell脚本学习指南》 O'REILLY 2016.12  对之前学习shell的一个补充，看不懂的地方跳过
+-  《Python Cookbook》 O’REILLY  2016.12  更像一本python3新特性的速查手册
 - :+1:[廖雪峰的python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) 2016.11
 - :+1: 《程序员的自我修养——链接、装载与库》 笔记见有道云   2016.9
 - :+1: [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)，英文版 [The Linux Command Line](http://linuxcommand.org/)，2016年5-6月
