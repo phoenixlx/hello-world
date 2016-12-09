@@ -51,7 +51,7 @@ Rework（重塑工作）
 
 ## 技术
 1. 《shell脚本学习指南》 O'REILLY 2016.12  对之前学习shell的一个补充，看不懂的地方跳过
--  《Python Cookbook》 O’REILLY  2016.12  更像一本python3新特性的速查手册
+-  《Python Cookbook》 O’REILLY  2016.12  更像一本python3新特性的速查手册 。```可能有多种实现方法，但你必须对自己的程序做分析，才能判定哪一种能获得更好的性能！```
 - :+1:[廖雪峰的python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) 2016.11
 - :+1: 《程序员的自我修养——链接、装载与库》 笔记见有道云   2016.9
 - :+1: [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)，英文版 [The Linux Command Line](http://linuxcommand.org/)，2016年5-6月
